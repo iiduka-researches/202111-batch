@@ -13,7 +13,6 @@ from torch.optim.lr_scheduler import LambdaLR
 from tqdm import tqdm
 
 from torch.optim import SGD
-from sgd import mySGD
 from torch.optim import Adam
 
 sys.path.append('./')
